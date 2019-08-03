@@ -1,1 +1,1 @@
-# CineOne
+# MovieApp using themoviedb.org API
